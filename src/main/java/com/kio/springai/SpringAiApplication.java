@@ -1,13 +1,13 @@
-package com.kio.spingai;
+package com.kio.springai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpingAiApplication {
+public class SpringAiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpingAiApplication.class, args);
+        SpringApplication.run(SpringAiApplication.class, args);
     }
 
 }

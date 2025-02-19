@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.kio</groupId>
-    <artifactId>sping-ai</artifactId>
+    <artifactId>spring-ai</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sping-ai</name>
-    <description>sping-ai</description>
+    <name>spring-ai</name>
+    <description>spring-ai</description>
     <url/>
     <licenses>
         <license/>

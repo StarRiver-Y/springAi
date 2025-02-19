@@ -1,10 +1,10 @@
-package com.kio.spingai;
+package com.kio.springai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpingAiApplicationTests {
+class SpringAiApplicationTests {
 
     @Test
     void contextLoads() {
